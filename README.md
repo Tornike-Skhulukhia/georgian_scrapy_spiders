@@ -4,6 +4,7 @@ I created those spiders mainly for my personal projects and decided to open sour
 Spiders are grouped into subfolders, according to the data they collect
 
 # list of currently added spiders
+```bash
 .
 ├── __init__.py
 ├── news
@@ -16,7 +17,7 @@ Spiders are grouped into subfolders, according to the data they collect
     ├── hr_ge.py
     ├── hr_gov_ge.py
     └── jobs_ge.py
-
+```
 
 ## Warning
 Code is mainly copied after few months/years of creating these spiders, so if there is some issue/problem, feel free let me know about it 
