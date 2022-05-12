@@ -1,0 +1,7 @@
+*.pyc
+*.jl
+*.json
+*.csv
+*.xml
+*.pkl
+**venv/
